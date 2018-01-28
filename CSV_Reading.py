@@ -1,7 +1,6 @@
 '''
 Created on Jan 22, 2018
 
-@author: Kingsley
 '''
 import collections
 import urllib.request
